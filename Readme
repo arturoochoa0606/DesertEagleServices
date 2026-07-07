@@ -1,10 +1,16 @@
-PRECISIÓN
-DIGITAL
-SIN LÍMITES
-Plataforma premium de marketing, diseño, ciberseguridad y desarrollo web & móvil, impulsada por IA y Python. Tecnología militar elegante al servicio de tu visión.
+# Desert Eagle 🪶
 
-MARKETING IA
-CIBERSEGURIDAD
-DEV WEB & MÓVIL
-DISEÑO PREMIUM
-PYTHON ENGINE
+**Desert Eagle** es una plataforma avanzada de servicios digitales que integra:
+- Marketing digital
+- Diseño de marcas exclusivas
+- Ciberseguridad avanzada
+- Desarrollo web y móvil
+- Redes inteligentes
+- Chatbots online con IA y Python
+
+## 🚀 Instalación
+
+```bash
+git clone https://github.com/tuusuario/DesertEagle.git
+cd DesertEagle
+pip install -r requirements.txt
