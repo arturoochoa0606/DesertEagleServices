@@ -1,0 +1,33 @@
+DesertEagle/
+├── .gitignore
+├── LICENSE
+├── README.md
+├── requirements.txt
+├── setup.py
+├── src/
+│   ├── __init__.py
+│   ├── chatbot/
+│   │   ├── __init__.py
+│   │   ├── core.py
+│   │   ├── nlp.py
+│   │   └── scheduler.py
+│   ├── web/
+│   │   ├── __init__.py
+│   │   ├── api.py
+│   │   ├── models.py
+│   │   └── routes.py
+│   ├── security/
+│   │   ├── __init__.py
+│   │   ├── firewall.py
+│   │   └── monitor.py
+│   └── utils/
+│       ├── __init__.py
+│       └── logger.py
+├── tests/
+│   ├── test_chatbot.py
+│   ├── test_web.py
+│   └── test_security.py
+└── docs/
+    ├── architecture.md
+    ├── api_reference.md
+    └── roadmap.md
